@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+/out/
+/libraries/
+
+.idea/
+
+./pattern_templates
+
+
